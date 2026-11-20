@@ -1,0 +1,27 @@
+header {
+    
+    background: #000000;
+background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(255, 224, 224, 1) 50%, rgba(255, 235, 235, 1) 100%);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+ 
+
+  
+}
+.voto{
+    height:120px;
+    
+}
+.von {
+    position: absolute;
+    top: 0;
+    left: 200px;
+    font-size: 35px;
+}
+body{
+   height: 800px;
+    background: #000000;
+background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(255, 224, 224, 1) 50%, rgba(255, 235, 235, 1) 100%);
+}
+main {font-size:30px ;
+    display: flex;
+}
